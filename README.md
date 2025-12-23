@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudraksh</h1> <h3 align="center">A computer engineering student and an aspiring fullstack developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Gp-CoNnex<br>👯 I’m looking to collaborate on React.js and AI/Ml<br>🤝 I’m looking for help with AI/ML , CI/CD pipelines , docker<br>🌱 I’m currently learning AI/ML , CI/CD pipelines , docker<br>💬 Ask me about React , databases , fullstack development <br>⚡ Fun fact Am a nerd for record
+🔭 I’m currently working as SWE Intern at Cludobits IT solutions , Pune <br>👯 I’m looking to collaborate on React.js and AI/Ml<br>🤝 I’m looking for help with AI/ML , CI/CD pipelines , docker<br>🌱 I’m currently learning AI/ML , CI/CD pipelines , docker<br>💬 Ask me about React , databases , fullstack development <br>⚡ Fun fact Am a nerd for record
 
 
 ## 🌐 Socials:
